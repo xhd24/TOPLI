@@ -1,0 +1,22 @@
+@font-face {
+    font-family: "tvn";        
+    src: url("../font/tvN Enjoystories Light.ttf");
+  }
+  
+  * {
+    box-sizing: border-box;
+  }
+  
+  body{
+    margin: 100px;
+    padding:0px 100px 100px 100px;
+    background:linear-gradient(to bottom, #82b8db 0%,#b2e8ec 50%,#d7e1e4 100%) ;
+    font-family: "tvn";
+  }
+
+  .result{
+      text-align: center;
+      margin-bottom: 300px;
+      font-size: 20px;
+  }
+  

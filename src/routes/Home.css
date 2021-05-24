@@ -1,0 +1,40 @@
+@font-face {
+    font-family: "tvn";        
+    src: url("../font/tvN Enjoystories Light.ttf");
+  }
+  
+  * {
+    box-sizing: border-box;
+  }
+  
+  body{
+    margin: 120px;
+    padding:0px 100px 100px 100px;
+    background:linear-gradient(to bottom, #E2F0D9 0%,#FFF2CC 50%,#FEFFFB 100%) ;
+    font-family: "tvn";
+  }
+  
+  .logo{
+    text-align: center;
+      display: block;
+      justify-content: center;
+      align-items: center;
+      margin: auto;
+      width: 100%;
+      font-size:20px;
+  }
+  
+  .logo img{
+    margin-top: 40px;
+  }
+  
+  .logo .sub_text{
+    color: #7F976A;
+  }
+  
+  .face img{
+    margin:300px 100px 100px 380px;
+  }
+
+
+  
